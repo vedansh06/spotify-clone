@@ -41,6 +41,11 @@ import img16 from "./img16.jpg";
 import song1 from "./song1.mp3";
 import song2 from "./song2.mp3";
 import song3 from "./song3.mp3";
+import song4 from "./song4.mp3";
+import song5 from "./song5.mp3";
+import song6 from "./song6.mp3";
+import song7 from "./song7.mp3";
+import song8 from "./song8.mp3";
 
 export const assets = {
   bell_icon,
@@ -117,66 +122,66 @@ export const albumsData = [
 export const songsData = [
   {
     id: 0,
-    name: "Song One",
+    name: "I Guess",
     image: img1,
     file: song1,
-    desc: "Put a smile on your face with these happy tunes",
+    desc: "KR$NA",
     duration: "3:00",
   },
   {
     id: 1,
-    name: "Song Two",
+    name: "Hola Amigo",
     image: img2,
     file: song2,
-    desc: "Put a smile on your face with these happy tunes",
+    desc: "KR$NA, Seedhe Maut",
     duration: "2:20",
   },
   {
     id: 2,
-    name: "Song Three",
+    name: "No Cap",
     image: img3,
     file: song3,
-    desc: "Put a smile on your face with these happy tunes",
+    desc: "KR$NA",
     duration: "2:32",
   },
   {
     id: 3,
-    name: "Song Four",
+    name: "Khatta Flow",
     image: img4,
-    file: song1,
-    desc: "Put a smile on your face with these happy tunes",
+    file: song4,
+    desc: "Seedhe Maut, KR$NA",
     duration: "2:50",
   },
   {
     id: 4,
-    name: "Song Five",
+    name: "Prarthana",
     image: img5,
-    file: song2,
-    desc: "Put a smile on your face with these happy tunes",
+    file: song5,
+    desc: "KR$NA",
     duration: "3:10",
   },
   {
     id: 5,
-    name: "Song Six",
+    name: "Shameless",
     image: img14,
-    file: song3,
-    desc: "Put a smile on your face with these happy tunes",
+    file: song6,
+    desc: "Bali, Enzo",
     duration: "2:45",
   },
   {
     id: 6,
-    name: "Song Seven",
+    name: "Knock Knock",
     image: img7,
-    file: song1,
-    desc: "Put a smile on your face with these happy tunes",
+    file: song7,
+    desc: "KR$NA, Phenom",
     duration: "2:18",
   },
   {
     id: 7,
-    name: "Song Eight",
+    name: "Shutdown",
     image: img12,
-    file: song2,
-    desc: "Put a smile on your face with these happy tunes",
+    file: song8,
+    desc: "Seedhe Maut",
     duration: "2:35",
   },
 ];
